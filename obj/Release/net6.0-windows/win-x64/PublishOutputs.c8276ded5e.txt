@@ -1,0 +1,9 @@
+C:\Medicine\Medicine Inventory using Core.pdb
+C:\Medicine\Medicine Inventory using Core.dll.config
+C:\Medicine\D3DCompiler_47_cor3.dll
+C:\Medicine\PenImc_cor3.dll
+C:\Medicine\PresentationNative_cor3.dll
+C:\Medicine\vcruntime140_cor3.dll
+C:\Medicine\wpfgfx_cor3.dll
+C:\Medicine\sni.dll
+C:\Medicine\Medicine Inventory using Core.exe

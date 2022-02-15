@@ -1,0 +1,17 @@
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\publish\Medicine Inventory using Core.exe
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\publish\Medicine Inventory using Core.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\publish\Medicine Inventory using Core.deps.json
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\publish\Medicine Inventory using Core.runtimeconfig.json
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\publish\Medicine Inventory using Core.dll.config
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\publish\Medicine Inventory using Core.pdb
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\publish\Microsoft.Extensions.Configuration.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\publish\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\publish\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\publish\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\publish\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\publish\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\publish\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\publish\Microsoft.Extensions.Primitives.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\publish\System.Data.SqlClient.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\publish\sni.dll

@@ -1,0 +1,37 @@
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\obj\Debug\net6.0-windows\Medicine Inventory using Core.csproj.AssemblyReference.cache
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\obj\Debug\net6.0-windows\Medicine_Inventory_using_Core.mainForm.resources
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\obj\Debug\net6.0-windows\Medicine Inventory using Core.csproj.GenerateResource.cache
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\obj\Debug\net6.0-windows\Medicine Inventory using Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\obj\Debug\net6.0-windows\Medicine Inventory using Core.AssemblyInfoInputs.cache
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\obj\Debug\net6.0-windows\Medicine Inventory using Core.AssemblyInfo.cs
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\obj\Debug\net6.0-windows\Medicine Inventory using Core.csproj.CoreCompileInputs.cache
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\Medicine Inventory using Core.exe
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\Medicine Inventory using Core.dll.config
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\Medicine Inventory using Core.deps.json
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\Medicine Inventory using Core.runtimeconfig.json
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\Medicine Inventory using Core.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\ref\Medicine Inventory using Core.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\Medicine Inventory using Core.pdb
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\obj\Debug\net6.0-windows\Medicine Inventory using Core.csproj.CopyComplete
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\obj\Debug\net6.0-windows\Medicine Inventory using Core.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\obj\Debug\net6.0-windows\ref\Medicine Inventory using Core.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\obj\Debug\net6.0-windows\Medicine Inventory using Core.pdb
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\obj\Debug\net6.0-windows\Medicine Inventory using Core.genruntimeconfig.cache
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\obj\Debug\net6.0-windows\Medicine_Inventory_using_Core.Login.resources
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\obj\Debug\net6.0-windows\Medicine_Inventory_using_Core.Store.resources
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Mickey\source\repos\Medicine Inventory using Core\obj\Debug\net6.0-windows\Medicine_Inventory_using_Core.UpdateForm.resources
